@@ -12,7 +12,7 @@ A fast, minimal CLI system dashboard for Linux environments. Designed to give sy
 - Status checks on servers or workstations
 - Lightweight diagnostics in minimal environments
 
-Built as a practical tool and as part of learning to work directly with the Linux CLI during custom Arch Linux setups.
+Built as a practical tool and for learning to work directly with the Linux CLI during custom Arch Linux setups.
 
 ---
 

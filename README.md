@@ -1,4 +1,4 @@
-# system-recon-dashboard
+# System Recon Dashboard
 
 A fast, minimal CLI system dashboard for Linux environments. Designed to give system administrators and cybersecurity analysts quick insight into host information without the noise or dependencies of heavier tools.
 

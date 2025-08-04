@@ -1,4 +1,3 @@
-[[/CharlesX0101]](https://charlesx0101.com/) [[/About]](http://charlesx0101.com/about) [[/Labs]](https://charlesx0101.com/labs) [[/Projects]](https://charlesx0101.com/projects) [[/Contact]](https://charlesx0101.com/contact) 
 # System Recon Dashboard
 
 A fast, minimal CLI system dashboard for Linux environments. Designed to give system administrators and cybersecurity analysts quick insight into host information without the noise or dependencies of heavier tools.

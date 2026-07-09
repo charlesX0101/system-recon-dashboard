@@ -18,7 +18,7 @@ echo "Kernel:                      $(uname -r)"
 
 # Uptime & Users
 echo "Uptime:                      $(uptime -p)"
-echo "Logged-in Users:             $(who | wc -l)"
+echo "Logged-in Users:             $(who | awk '{print $1}' | sort -u | wc -l)"
 
 # CPU Usage
 cpu_usage=$(top -bn1 | grep "Cpu(s)" | awk '{print $2 " user, " $4 " system, " $8 " idle"}')
